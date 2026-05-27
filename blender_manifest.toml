@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+blender_version_min = "5.0.0"
+version = "0.6.3"
+id = "theme_dictionary"
+name = "theme dictionary"
+tagline = "theme recolor plugin that retrieves relevant options"
+license = ["SPDX:GPL-3.0-or-later"]
+maintainer = "61+"
+type = "add-on"
+website = "https://github.com/VODIAC/BlenderAddon_Multi_Files_Bookmark"
+copyright = ["2026 61+"]
+tags = ["System"]
